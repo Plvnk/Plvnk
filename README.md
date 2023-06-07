@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Plvnk
+- 👀 I’m interested in playing games, making games, chatting with friends
+- 🌱 I’m currently learning .lua and C#
+- 💞️ I’m looking to collab with your games!
+- 📫 To contact me, DM me on discord @! PLVNK#4371
